@@ -1,0 +1,14 @@
+google chrome: chrome.exe
+google: chrome.exe
+chrome: chrome.exe
+notas: C:\X\X\Notas rápidas.lnk
+notas rápidas: C:\X\X\Notas rápidas.lnk
+terminal: C:\X\X\X\Windows PowerShell.lnk
+spotify: spotify.exe
+whatsapp: C:\X\X\X\WhatsApp.exe
+explorador: explorer.exe 
+calculadora: calc.exe
+word: winword.exe
+excel: excel.exe
+powerpoint: powerpnt.exe
+power point: powerpnt.exe

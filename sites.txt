@@ -1,0 +1,6 @@
+gmail: https://mail.google.com/mail/u/your_email_here@gmail.com/#inbox
+whatsapp: https://web.whatsapp.com/
+spotify: https://open.spotify.com/
+youtube: https://www.youtube.com/
+netflix: https://www.netflix.com/browse
+amazon: https://www.amazon.com.mx/
